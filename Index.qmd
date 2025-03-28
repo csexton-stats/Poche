@@ -1,9 +1,0 @@
----
-title: "Navigation"
-format: html
-editor: visual
----
-
-Navigate through the upcoming sessions:
-
-1.  R, RStudio & Data cleaning with dplyr
